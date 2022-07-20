@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"offerId": "TestId",
+		"name": "Mike",
+		"car": "Swift",
+		"seatsLeft": 4,
+		"pickUp": "Kothrud",
+		"destination": "Hinjewadi"
+	},
+	{
+		"id": 1,
+		"offerId": "TestId2",
+		"name": "John",
+		"car": "Polo",
+		"seatsLeft": 4,
+		"pickUp": "Warje",
+		"destination": "Hinjewadi"
+	}
+]
